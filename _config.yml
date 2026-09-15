@@ -16,8 +16,8 @@
 title: DSC 106
 description: DSC 106, Fall 2026 at UC San Diego
 tagline: Data Visualization
-baseurl: '/dsc106-2026-fa' # change to '/' after pointing dsc106.com at this repo
-url: 'https://dsc-courses.github.io' # change to 'https://dsc106.com' after the domain cutover
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://dsc106.com' # the base hostname & protocol for your site
 author: Sam Lau
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "scripts"]
 
