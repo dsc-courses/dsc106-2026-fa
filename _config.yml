@@ -28,12 +28,11 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  💻 GitHub:
-    - 'https://github.com/dsc-courses/dsc106-2026-fa'
-  # TODO: add Fall 2026 course links, e.g.
+  # 💻 GitHub:
+  #   - 'https://github.com/dsc-courses/dsc106-2026-fa'
   🙋 Ed:
-     - Join through 'https://edstem.org/us/join/4QxAGA'
-     - Direct Link to the Class Forum 'https://edstem.org/us/courses/106214/discussion'
+    - 'https://edstem.org/us/courses/106214/discussion'
+  # Ed join link for enrollment: https://edstem.org/us/join/4QxAGA
   💯 Gradescope:
      - 'https://www.gradescope.com/courses/1398998'
 footer_content:
