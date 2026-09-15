@@ -56,9 +56,9 @@ You'll need to make accounts or join the class on the following sites.
   board. More details are in the [Communication](#communication-) section below.
   If you weren't added automatically, [join here][edjoin] with your UCSD email.
 
-- **Gradescope:** You'll submit all assignments to [Gradescope][gradescope]. This is where
-  all of your grades will live as well. You should have received an email
-  invitation for Gradescope.
+- **Gradescope:** You'll submit all assignments to [Gradescope][gradescope], and
+  this is where all of your grades will live. Enroll yourself with the course
+  entry code **G73E64**.
 
 Lecture recordings are posted to
 [podcast.ucsd.edu](https://podcast.ucsd.edu/). Note that we will not be using
@@ -113,15 +113,6 @@ we may ask you to attend a specific session; we'll announce those in advance.
 your participation grade (detailed below)**. Lectures will be podcasted, and
 lecture slides will be posted before class.
 
-### Discussions
-
-We will be holding discussions during the
-scheduled Monday lecture times. We will **not** hold discussions during the
-scheduled discussion time on Wednesdays. **Discussion attendance is not strictly
-required, but is one option for earning your participation grade (detailed
-below)**. Discussions will be podcasted, and slides will be posted on the course
-website.
-
 ### Participation
 
 Developing expertise in data visualization also means being able to clearly
@@ -131,8 +122,15 @@ week of the course will count for 1% of your grade, and the lowest two weeks
 will be dropped. There are **2 options** for fulfilling the participation
 expectations for a particular week:
 
-1. **Attend both lectures and participate in the lecture exercises.**
-   Participation will be tracked using an online form given during class.
+1. **Attend both lectures in person and participate in the lecture exercises.**
+   Participation is tracked using an online form given during class. As long as
+   you respond to at least 50% of the prompts during a lecture, you earn credit
+   for that day.
+
+   If you need to participate **remotely** for a particular lecture, you can
+   still earn credit by watching the podcast and submitting the remote
+   attendance form, posted alongside that lecture on the course website, by
+   **3:00 PM on the next lecture day**.
 
 2. **Share and critique at least 1 interesting data visualization on Ed under
    the Critiques category that hasn't already been shared during
@@ -257,10 +255,10 @@ course website for the most up-to-date schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Monday     | Tuesday | Wednesday                                         | Thursday | Friday                                        |
-| ---------- | ------- | ------------------------------------------------- | -------- | --------------------------------------------- |
-| Discussion | Lecture |                                                   | Lecture  |                                               |
-|            |         | <span style='color:red'><b>Project due</b></span> |          | <span style='color:red'><b>Lab due</b></span> |
+| Monday | Tuesday | Wednesday                                         | Thursday | Friday                                        |
+| ------ | ------- | ------------------------------------------------- | -------- | --------------------------------------------- |
+|        | Lecture |                                                   | Lecture  |                                               |
+|        |         | <span style='color:red'><b>Project due</b></span> |          | <span style='color:red'><b>Lab due</b></span> |
 
 ---
 
