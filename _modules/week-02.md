@@ -1,6 +1,6 @@
 ---
-title: Week 3
-weekNumber: 3
+title: Week 2
+weekNumber: 2
 days:
   - date: "2026-10-06"
     events:
