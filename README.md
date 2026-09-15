@@ -1,2 +1,1 @@
-# dsc106-2026-fa
-DSC 106, Fall 2026 at UC San Diego
+DSC 106 FA26 - course website (Jekyll) and lecture code
