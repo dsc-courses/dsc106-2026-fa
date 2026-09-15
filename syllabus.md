@@ -21,9 +21,10 @@ nav_order: 2
 
 ---
 
-[piazza]: https://piazza.com/ucsd/spring2026/dsc106_sp26_a00/home
-[github]: https://github.com/dsc-courses/dsc106-2026-sp
-[gradescope]: https://www.gradescope.com/courses/1286634
+[ed]: https://edstem.org/us/courses/106214/discussion
+[edjoin]: https://edstem.org/us/join/4QxAGA
+[github]: https://github.com/dsc-courses/dsc106-2026-fa
+[gradescope]: https://www.gradescope.com/courses/1398998
 
 ## About 🧐
 
@@ -51,10 +52,9 @@ course content. There are also a few things you'll need to do to get set up.
 
 You'll need to make accounts or join the class on the following sites.
 
-- **Piazza:** We'll be using Piazza as our course message and discussion board. More
-  details are in the [Communication](#communication-) section below. If you
-  didn't already get an invitation to our Piazza course, [sign up
-  here][piazza].
+- **Ed:** We'll be using [Ed Discussion][ed] as our course message and discussion
+  board. More details are in the [Communication](#communication-) section below.
+  If you weren't added automatically, [join here][edjoin] with your UCSD email.
 
 - **Gradescope:** You'll submit all assignments to [Gradescope][gradescope]. This is where
   all of your grades will live as well. You should have received an email
@@ -64,7 +64,9 @@ You'll need to make accounts or join the class on the following sites.
   (lecture slides and assignments) by _pulling_ [our course GitHub repository][github].
   In Project 3 and the Final Project, you will also _push_ to your personal GitHub.
 
-Note that we will not be using Canvas for anything this quarter.
+Lecture recordings are posted to
+[podcast.ucsd.edu](https://podcast.ucsd.edu/). Note that we will not be using
+Canvas for anything this quarter.
 
 ### Development Environment
 
@@ -75,23 +77,23 @@ up your development environment for the course.
 
 ## Communication 💬
 
-This quarter, we'll be using Piazza as our course message board. You will be added
-to Piazza automatically; use the invite link in the section above if you weren't
-added.
+This quarter, we'll be using [Ed Discussion][ed] as our course message board. You
+will be added to Ed automatically; use the join link in the section above if you
+weren't added.
 
 If you have a question about anything to do with the course — if you're stuck
 on a problem, didn't understand something from lecture, want clarification on
 course logistics, or just have a general question about data science — you can
-make a post on Piazza. We only ask that if your question includes some or all of an
+make a post on Ed. We only ask that if your question includes some or all of an
 answer (even if you're not sure it's right), please make your post private so
 that others cannot see it. You can also post anonymously to other students if
 you prefer.
 
-Course staff will regularly check Piazza and try to answer any questions that you
+Course staff will regularly check Ed and try to answer any questions that you
 have. You're also encouraged to answer questions asked by other students.
 Explaining something is a great way to solidify your understanding of it!
 
-**Please don't email individual staff members, just make a private or public Piazza
+**Please don't email individual staff members, just make a private or public Ed
 post instead.**
 
 ---
@@ -100,13 +102,24 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person MWF 1:00-1:50pm in [Catalyst (CTL) 125](<https://map.concept3d.com/?id=1005#!ct/18027,20079,58109,58479,63891,70457,79078,97946,99277,99278,70461,79079,97947?d/type:walking;ada:false;to:32.880764,-117.241966,0;endName:Catalyst%20(CTL)?share>). **Lecture attendance is not strictly required,
-but is one option for earning your participation grade (detailed below)**.
-Lectures will be podcasted, and lecture slides will be posted before class.
+Lectures are held in-person on Tuesdays and Thursdays. There are two sections:
+
+| Section | Time                 | Location               |
+| ------- | -------------------- | ---------------------- |
+| 001     | TuTh 3:30-4:50pm     | Coalition Building B27 |
+| 002     | TuTh 11:00am-12:20pm | Podemos 1A19           |
+
+Please attend the section you are enrolled in. The exception is a lecture built
+around project work — the Mock Showcase and Video Showcase, for example — where
+we may ask you to attend a specific session; we'll announce those in advance.
+
+**Lecture attendance is not strictly required, but is one option for earning
+your participation grade (detailed below)**. Lectures will be podcasted, and
+lecture slides will be posted before class.
 
 ### Discussions
 
-**New**{: .label .label-green } We will be holding discussions during the
+We will be holding discussions during the
 scheduled Monday lecture times. We will **not** hold discussions during the
 scheduled discussion time on Wednesdays. **Discussion attendance is not strictly
 required, but is one option for earning your participation grade (detailed
@@ -122,10 +135,10 @@ week of the course will count for 1% of your grade, and the lowest two weeks
 will be dropped. There are **2 options** for fulfilling the participation
 expectations for a particular week:
 
-1. **Attend both lectures, participate in the lecture exercises, and attend discussion.**
-   Participation will be tracked using an online form given during class and discussion.
+1. **Attend both lectures and participate in the lecture exercises.**
+   Participation will be tracked using an online form given during class.
 
-2. **Share and critique at least 1 interesting data visualization on Piazza under
+2. **Share and critique at least 1 interesting data visualization on Ed under
    the Critiques category that hasn't already been shared during
    class, labs, or projects.** To receive credit, the critique needs to have at
    least 3 paragraphs of around 3-4 sentences each. The three paragraphs should:
@@ -136,7 +149,7 @@ expectations for a particular week:
    3. Describe the weaknesses of this particular visualization.
 
 ⚠️If you choose to fulfill lecture participation through option 2, you must
-make a **public** post on Piazza under the Critiques category. In the title of
+make a **public** post on Ed under the Critiques category. In the title of
 your post or response, clearly state that it is being used as an opportunity to
 fulfill lecture participation. The deadline for submitting critiques to count
 for the corresponding week is **Sunday at 11:59 PM**.
@@ -163,7 +176,7 @@ There will be **4 projects** due throughout the quarter. The projects are
 open-ended and are the primary focus of the course. **As such, our standards for
 grading will be similar to the way portfolio pieces are evaluated for
 internship/research lab/job applications --- we expect your best work!** The
-first project are **solo** projects. For Project 2, 3 and the Final Project,
+first project is a **solo** project. For Project 2, 3 and the Final Project,
 you may work in groups of either 3 or 4 students.
 
 **Working in Groups**
@@ -248,10 +261,10 @@ course website for the most up-to-date schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Monday     | Tuesday                                           | Wednesday | Thursday | Friday                                        |
-| ---------- | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
-| Discussion |                                                   | Lecture   |          | Lecture                                       |
-|            | <span style='color:red'><b>Project due</b></span> |           |          | <span style='color:red'><b>Lab due</b></span> |
+| Monday     | Tuesday | Wednesday                                         | Thursday | Friday                                        |
+| ---------- | ------- | ------------------------------------------------- | -------- | --------------------------------------------- |
+| Discussion | Lecture |                                                   | Lecture  |                                               |
+|            |         | <span style='color:red'><b>Project due</b></span> |          | <span style='color:red'><b>Lab due</b></span> |
 
 ---
 
@@ -361,7 +374,7 @@ We're in this together 😎.
 
 DSC 106 is known for being a rigorous but rewarding course. While you will be
 challenged this quarter, we will be offering you plenty of support through
-office hours and Piazza. Make good use of these resources, and you will be able to
+office hours and Ed. Make good use of these resources, and you will be able to
 succeed in this course.
 
 There is no excuse for cheating in this course. If you do cheat, we will
@@ -424,7 +437,7 @@ allowed (not an exhaustive list):
 - Using Google to search for documentation.
 - Working together with other students on assignments without copying or
   sharing answers
-- Posting a question about your approach to a problem on Piazza, without sharing
+- Posting a question about your approach to a problem on Ed, without sharing
   your code
 
 ### How can I be sure that my actions are NOT considered cheating?
