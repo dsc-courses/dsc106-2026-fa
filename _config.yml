@@ -16,9 +16,9 @@
 title: DSC 106
 description: DSC 106, Fall 2026 at UC San Diego
 tagline: Data Visualization
-baseurl: '/dsc106-2026-fa' # change to '/' after pointing dsc106.com at this repo
-url: 'https://dsc-courses.github.io' # change to 'https://dsc106.com' after the domain cutover
-author: Sam Lau
+baseurl: '/'
+url: 'https://dsc106.com'
+author: Soohyun Nam Liao
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "scripts"]
 
 # Theme settings
@@ -31,10 +31,11 @@ aux_links:
   💻 GitHub:
     - 'https://github.com/dsc-courses/dsc106-2026-fa'
   # TODO: add Fall 2026 course links, e.g.
-  # 🙋 Piazza:
-  #   - 'https://piazza.com/ucsd/fall2026/dsc106_fa26_a00/home'
-  # 💯 Gradescope:
-  #   - 'https://www.gradescope.com/courses/XXXXXXX'
+  🙋 Ed:
+     - Join through 'https://edstem.org/us/join/4QxAGA'
+     - Direct Link to the Class Forum 'https://edstem.org/us/courses/106214/discussion'
+  💯 Gradescope:
+     - 'https://www.gradescope.com/courses/1398998'
 footer_content:
 
 # Collections for website data
