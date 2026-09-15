@@ -56,9 +56,9 @@ You'll need to make accounts or join the class on the following sites.
   board. More details are in the [Communication](#communication-) section below.
   If you weren't added automatically, [join here][edjoin] with your UCSD email.
 
-- **Gradescope:** You'll submit all assignments to [Gradescope][gradescope]. This is where
-  all of your grades will live as well. You should have received an email
-  invitation for Gradescope.
+- **Gradescope:** You'll submit all assignments to [Gradescope][gradescope], and
+  this is where all of your grades will live. Enroll yourself with the course
+  entry code **G73E64**.
 
 - **GitHub:** Like in DSC 30 and 80, you'll _access_ all course content
   (lecture slides and assignments) by _pulling_ [our course GitHub repository][github].
