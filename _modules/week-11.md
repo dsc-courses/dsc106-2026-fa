@@ -1,6 +1,6 @@
 ---
-title: Week 12
-weekNumber: 12
+title: Week 11
+weekNumber: 11
 days:
   - date: "2026-12-09"
     events:
@@ -13,4 +13,3 @@ days:
         type: lecture
         title: Final Project Showcase (time & location TBD)
 ---
-
