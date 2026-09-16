@@ -17,7 +17,8 @@ Lectures are held in person on Tuesdays and Thursdays:
 **TA office hours are TBD.** They will appear on the calendar below once the
 schedule is finalized.
 
-**Professor office hours are by appointment** — email
-[snam@ucsd.edu](mailto:snam@ucsd.edu) to set up a time.
+**Professor office hours are by appointment** — please
+[make a private post on Ed](https://edstem.org/us/courses/106214/discussion) to
+set up a time.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_f1e626c77a9407b6afdf3e617c27213d07499f1c82b80460b6dc5b165502632f%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
