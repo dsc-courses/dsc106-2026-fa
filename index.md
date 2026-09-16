@@ -11,7 +11,10 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{{ site.staffersnobio }}
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
 <!-- [Jump to the current week](#week-9-code-sklearn-code-pipelines-generalization-and-cross-validation){: .btn } -->
 

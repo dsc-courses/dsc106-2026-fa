@@ -40,7 +40,6 @@ footer_content:
 # Collections for website data
 collections:
   staffers:
-  staffersnobio:
   modules:
   schedules:
   announcements:
@@ -51,12 +50,6 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: staffersnobio
-    values:
-      layout: staffer_no_bio
       subpath: '/assets/images/'
   - scope:
       path: ''

@@ -2,7 +2,6 @@
 name: Ben
 role: TA
 pronouns: he/him
-email: bkpham@ucsd.edu
 website: 
 description: 4th year Data Science PhD student
 hometown: Anaheim, CA
