@@ -25,6 +25,7 @@ nav_order: 2
 [edjoin]: https://edstem.org/us/join/4QxAGA
 [github]: https://github.com/dsc-courses/dsc106-2026-fa
 [gradescope]: https://www.gradescope.com/courses/1398998
+[remoteform]: https://docs.google.com/forms/d/e/1FAIpQLSeAk-ZMfMTbYduOWFzGa4N7hyfgnysrld4Qbb9_B_BK4Svuzg/viewform
 
 ## About 🧐
 
@@ -109,9 +110,14 @@ Please attend the section you are enrolled in. The exception is a lecture built
 around project work — the Mock Showcase and Video Showcase, for example — where
 we may ask you to attend a specific session; we'll announce those in advance.
 
-**Lecture attendance is not strictly required, but is one option for earning
-your participation grade (detailed below)**. Lectures will be podcasted, and
-lecture slides will be posted before class.
+**Attending lecture is how you earn your participation grade (detailed
+below)**. If you can't make it in person for a given lecture, you can still earn
+the credit remotely. Lectures will be podcasted, and lecture slides will be
+posted before class.
+
+### Discussions
+
+We will not be holding discussion meetings this quarter.
 
 ### Participation
 
@@ -127,26 +133,9 @@ expectations for a particular week:
    you respond to at least 50% of the prompts during a lecture, you earn credit
    for that day.
 
-   If you need to participate **remotely** for a particular lecture, you can
-   still earn credit by watching the podcast and submitting the remote
-   attendance form, posted alongside that lecture on the course website, by
-   **3:00 PM on the next lecture day**.
-
-2. **Share and critique at least 1 interesting data visualization on Ed under
-   the Critiques category that hasn't already been shared during
-   class, labs, or projects.** To receive credit, the critique needs to have at
-   least 3 paragraphs of around 3-4 sentences each. The three paragraphs should:
-   1. Summarize the visualization and describe how it connects to a lecture
-      concept from the current week or the previous week. If a dataset for the
-      visualization is publicly available, provide a link.
-   2. Describe the strengths of this particular visualization.
-   3. Describe the weaknesses of this particular visualization.
-
-⚠️If you choose to fulfill lecture participation through option 2, you must
-make a **public** post on Ed under the Critiques category. In the title of
-your post or response, clearly state that it is being used as an opportunity to
-fulfill lecture participation. The deadline for submitting critiques to count
-for the corresponding week is **Sunday at 11:59 PM**.
+2. **Participate remotely.** Watch the lecture podcast and submit the [remote
+   participation form][remoteform] by **3:00 PM on the next lecture day**. Submit
+   the form once per lecture, after that lecture is over.
 
 ### Labs
 
