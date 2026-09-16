@@ -22,4 +22,5 @@ days:
       - name: LAB 8
         type: lab
         title: Lab 8
+        url: ../labs/lab08
 ---

@@ -29,4 +29,5 @@ days:
       - name: LAB 6
         type: lab
         title: Lab 6
+        url: ../labs/lab06
 ---

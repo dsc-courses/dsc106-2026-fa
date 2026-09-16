@@ -149,3 +149,7 @@ _site/
 .jekyll-metadata
 .bundle/
 vendor/
+
+# macOS
+.DS_Store
+**/.DS_Store
