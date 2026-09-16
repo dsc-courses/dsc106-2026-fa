@@ -58,12 +58,13 @@ You'll need to make accounts or join the class on the following sites.
   If you weren't added automatically, [join here][edjoin] with your UCSD email.
 
 - **Gradescope:** You'll submit all assignments to [Gradescope][gradescope], and
-  this is where all of your grades will live. Enroll yourself with the course
-  entry code **G73E64**.
+  this is where all of your grades will live. You can access Gradescope through Canvas. If you are not enrolled, enroll yourself directly Gradescope with the course
+  entry code **G73E64**. 
 
-Lecture recordings are posted to
-[podcast.ucsd.edu](https://podcast.ucsd.edu/). Note that we will not be using
-Canvas for anything this quarter.
+- **Canvas:** All of your grade breakdowns will be posted on Canvas > Grades. You can also 
+
+- Lecture recordings are posted to
+[podcast.ucsd.edu](https://podcast.ucsd.edu/) and Canvas.
 
 ### Development Environment
 
