@@ -46,8 +46,8 @@ project.
 As soon as you have formed a team and chosen a dataset, complete the team formation submission on GradeScope.
 Your submission must include a **concise title for your interactive visualization** (we will get the UCSD email and names of your groupmates from the group submission!). 
 The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners,
-please post to Piazza to find classmates with similar interests! **You should
-submit your team registration by Friday 5/01, 11:59 pm.** Please ensure that the
+please post to Ed to find classmates with similar interests! **You should
+submit your team registration by Friday 10/23, 11:59 pm.** Please ensure that the
 team has been finalized before filling the form, and that the details are
 correct.
 
@@ -123,11 +123,11 @@ The assignment is out of 14 points possible. Submissions that squarely meet the 
 
 ### Team Registration
 
-Submit your team submission form on GradeScope by **Friday 5/01, 11:59 PM**.
+Submit your team submission form on GradeScope by **Friday 10/23, 11:59 PM**.
 
 ### Checkpoint Submission
 
-The submission must be made on gradescope by **Tue 05/05, 11:59 PM**. For this submission, submit an **mp4** video no longer than 2 minutes with the following details:
+The submission must be made on gradescope by **Wed 10/28, 11:59 PM**. For this submission, submit an **mp4** video no longer than 2 minutes with the following details:
 
 1. Name of your team and team members
 2. Dataset chosen. Explain the aspects of the datasets you plan to use.
@@ -143,7 +143,7 @@ Please ensure that the video has an associated audio/voiceover rather than just 
 
 ### Final Submission
 
-You must have a working prototype online by **Tue 05/12, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
+You must have a working prototype online by **Wed 11/04, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
 
 In addition, **you must submit the URL on Gradescope**. **One submission per team is sufficient**.
 

@@ -233,11 +233,11 @@ Project Showcase.**
 
 ### Office Hours
 
-To get help on assignments and concepts, course staff will be hosting several
-office hours per week. The majority of our office hours are held in-person,
-though a few are held remotely – **if you're able to, you're strongly
-encouraged to attend in-person**. See the [Calendar](../calendar) tab of the
-course website for the most up-to-date schedule and instructions.
+To get help on assignments and concepts, the TAs will be hosting office hours
+each week. **TA office hour times and locations are TBD** and will be announced
+on the [Calendar](../calendar) tab of the course website once finalized.
+
+**Professor office hours are by appointment.** Email me to set up a time.
 
 ### Weekly Schedule
 

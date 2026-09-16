@@ -4,8 +4,8 @@ title: 'Project 2: Persuasive/Deceptive Visualization'
 parent: '📝 Projects'
 released: false
 nav_order: 2
-checkpoint_due: 'Tue April 21, 11:59pm PT'
-due: 'Tue April 28, 11:59pm PT'
+checkpoint_due: 'Wed October 14, 11:59pm PT'
+due: 'Wed October 21, 11:59pm PT'
 ---
 
 # Project 2: Persuasive or Deceptive Visualization?
@@ -21,9 +21,9 @@ due: 'Tue April 28, 11:59pm PT'
 > 
 >This is a group assignment (3–4 members per group).
 > 
-> **Checkpoint Due: Tue 4/21, by 11:59pm**
+> **Checkpoint Due: Wed 10/14, by 11:59pm**
 >
-> **Complete Project Due: Tue 4/28, by 11:59pm**
+> **Complete Project Due: Wed 10/21, by 11:59pm**
 
 <details open markdown="block">
   <summary>
@@ -124,7 +124,7 @@ by Christine Chan—was widely considered to be misleading.
 
 ## Submission Details
 
-This is a group assignment (3–4 members per group). Each group of 3–4 students should submit one shared submission on behalf of all members. Please make sure to include every group member’s full name and UCSD email address in the submission. There is a checkpoint submission due on **Tuesday, April 21, by 11:59 PM**. Your completed assignment is due on **Tuesday, April 28, by 11:59 PM.**.
+This is a group assignment (3–4 members per group). Each group of 3–4 students should submit one shared submission on behalf of all members. Please make sure to include every group member’s full name and UCSD email address in the submission. There is a checkpoint submission due on **Wednesday, October 14, by 11:59 PM**. Your completed assignment is due on **Wednesday, October 21, by 11:59 PM**.
 
 ### Checkpoint Submission
 

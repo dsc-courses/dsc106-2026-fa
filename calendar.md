@@ -4,8 +4,20 @@ title: 📆 Calendar
 description: Google Calendar containing all course events.
 nav_order: 3
 ---
-# 📆 Calendar
-Lectures are held MWF 1:00-1:50pm in [Catalyst (CTL) 125](https://map.concept3d.com/?id=1005#!ct/18027,20079,58109,58479,63891,70457,79078,97946,99277,99278,70461,79079,97947?d/type:walking;ada:false;to:32.880764,-117.241966,0;endName:Catalyst%20(CTL)?share).
-Office hours are held in the HDSI building [Halıcıoğlu Data Science Institute Room 355](https://www.google.com/maps/place/Hal%C4%B1c%C4%B1o%C4%9Flu+Data+Science+Institute/@32.8805676,-117.2363991,17z/data=!3m2!4b1!5s0x80dc06c1dfc237df:0x2baefc1d5cbb43f3!4m6!3m5!1s0x80dc06c1fb192bcb:0x94d4894527b99b21!8m2!3d32.8805631!4d-117.2338242!16s%2Fg%2F11f4_xtk0f?entry=ttu).
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_5576200e8ae97bc83dde97533983990e3ca61d619022cc2c668a2a4eb9bd57ef%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+# 📆 Calendar
+
+Lectures are held in person on Tuesdays and Thursdays:
+
+| Section | Time                 | Location               |
+| ------- | -------------------- | ---------------------- |
+| 001     | TuTh 3:30-4:50pm     | Coalition Building B27 |
+| 002     | TuTh 11:00am-12:20pm | Podemos 1A19           |
+
+**TA office hours are TBD.** They will appear on the calendar below once the
+schedule is finalized.
+
+**Professor office hours are by appointment** — email
+[snam@ucsd.edu](mailto:snam@ucsd.edu) to set up a time.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_f1e626c77a9407b6afdf3e617c27213d07499f1c82b80460b6dc5b165502632f%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

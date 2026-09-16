@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: assignment
 title: 📺 Final Project Showcase
-description: Showcase of student final projects from Spring 2026.
+description: Showcase of student final projects.
 nav_order: 1
+released: false
 ---
 
 # Final Project Showcase

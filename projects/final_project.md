@@ -79,10 +79,10 @@ as long as you fulfill the requirements.
 
 The final project consists of the following milestones:
 
-- **Team Formation Form (Fri 5/15, 5:00 pm, No Slip Days)**. Submit the Team Formation Gradescope assignment to register your team for the final project. **Every team must submit this form — even if you are continuing with the same team from Project 3.**
-  Anyone who is not part of a team or has not submitted the form by Friday, May 15 at 5:00 PM will be randomly assigned to a team. This is a strict deadline and no adjustments will be made after teams are assigned.
+- **Team Formation Form (Fri 11/06, 5:00 pm, No Slip Days)**. Submit the Team Formation Gradescope assignment to register your team for the final project. **Every team must submit this form — even if you are continuing with the same team from Project 3.**
+  Anyone who is not part of a team or has not submitted the form by Friday, November 6 at 5:00 PM will be randomly assigned to a team. This is a strict deadline and no adjustments will be made after teams are assigned.
 
-- **Proposal (Tue 5/19, 11:59pm, can use slip days)**. Propose your chosen topic, dataset(s), and team members. We need the following information in the project proposal:
+- **Proposal (Thu 11/12, 11:59pm, can use slip days)**. Propose your chosen topic, dataset(s), and team members. We need the following information in the project proposal:
   - Project Title
   - Dataset
   - Brief writeup of what you intend to do (5-10 lines)
@@ -90,20 +90,20 @@ The final project consists of the following milestones:
 
 Apart from the team registration form, please also submit the Gradescope assignment for the proposal.
 
-- **Initial Prototype (Tues 5/26, 11:59pm, can use slip days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
+- **Initial Prototype (Wed 11/18, 11:59pm, can use slip days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
 
-- **Feedback Meeting with Course Staff (sign ups open between 5/19-5/29)**. Each team will meet with a course staff member for 15 minutes to discuss your final project idea and receive feedback. See our course forum for the signup sheet URL. All project team members must be present at this meeting unless prior approval has been granted by the course staff.
+- **Feedback Meeting with Course Staff (sign ups open between 11/12-11/20)**. Each team will meet with a course staff member for 15 minutes to discuss your final project idea and receive feedback. See our course forum for the signup sheet URL. All project team members must be present at this meeting unless prior approval has been granted by the course staff.
 
-- **Demo Video (Tues 6/2, 11:59pm, Can use slip days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. More information about preparing the video is available in the project deliverables section.
+- **Demo Video (Wed 12/02, 11:59pm, Can use slip days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. More information about preparing the video is available in the project deliverables section.
 
-- **Deliverables (Tues 6/9, 11:59pm, No slip days allowed)**. Publish your final project web page and updated demo video. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
+- **Deliverables (Wed 12/09, 11:59pm, No slip days allowed)**. Publish your final project web page and updated demo video. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
 
-- **Final Project Showcase (Thurs 6/11, 11:30am-2:30pm)**. We will host a showcase for DSC 106 on Tue Thurs 6/11, 11:30am-2:30pm. All students are required to attend the showcase.
+- **Final Project Showcase (Thu 12/10, time & location TBD)**. We will host a showcase for DSC 106 on Thursday 12/10; the time and location will be announced. All students are required to attend the showcase.
 
 ## Project Deliverables
 
 To complete your final project, you must provide two primary deliverables, both
-due Tuesday 6/9, 11:59pm:
+due Wednesday 12/09, 11:59pm:
 
 - A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. This video can be similar to the demo video that you previously submitted but should be updated to reflect the final version of your website.
 - An interactive web page that visualizes your chosen topic.
@@ -120,7 +120,7 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][video] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your demo video must be published on YouTube. In addition you must submit a URL linking to your video via Gradescope by Tues 6/02, 11:59pm. We will have a video showcase during our final lecture session.
+Your demo video must be published on YouTube. In addition you must submit a URL linking to your video via Gradescope by Wed 12/02, 11:59pm. We will have a video showcase during our final lecture session.
 
 {: .note}
 Please do not enable the option for YouTube Kids while uploading the video as it can't be added to playlists.
@@ -129,7 +129,7 @@ Please do not enable the option for YouTube Kids while uploading the video as it
 
 ## Rubric
 
-### Initial Prototype (due 5/26/2026)
+### Initial Prototype (due 11/18/2026)
 
 - Webpage: 0.5 Point
 - GitHub Repo: 0.5 Point
@@ -143,7 +143,7 @@ Please do not enable the option for YouTube Kids while uploading the video as it
 | **Visualization** | The page has at least 1 visualization on the screen with at least 1 working interaction. (+1 point)                                                                                                                           | The page has at least one visualization, but the visualization doesn’t have an interaction. (+0.5 point)                   | No visualization is working on the page. (+0 point)     |
 | **Writeup**       | The web page writeup contains at least 4 sentences for each of the following questions (≥8 sentences total): 1. What have you done so far? 2. What will be the most challenging of your project to design and why? (+1 point) | The description answered one out of two questions, or didn’t provide at least 4 sentences for each question. (+0.5 points) | The description is missing. (+0 points)                 |
 
-### Demo Video (due 6/02/2025)
+### Demo Video (due 12/02/2026)
 
 The assignment is out of 10 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 7/10 points.
 
@@ -157,7 +157,7 @@ The assignment is out of 10 points possible. Submissions that squarely meet the 
 | **Viewing experience**               |                                                                                                                                                                                                                                                                           | The video is easy to view: all images are clearly visible and all text is legible. (+1 point)                                                                                                            | The video is difficult to view (e.g. some images and text are too small to see clearly). (+0.5 points)      |
 | **Creativity and Originality**       | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (+1 bonus point)                                                                                                                                      | The submission meets the assignment requirements. (+0 points)                                                                                                                                            |                                                                                                             |
 
-### Final Deliverables (due 6/9/2025)
+### Final Deliverables (due 12/09/2026)
 
 The assignment is out of 20 points possible. Submissions that squarely meet the project requirements (Satisfactory column) will get 17/20 points.
 
@@ -176,13 +176,13 @@ The assignment is out of 20 points possible. Submissions that squarely meet the 
 | **Video: Takeaways**                        |                                                                                                                                                                               | The video ends with an interesting takeaway and explains why your visualization demonstrates this takeaway effectively. What is the one thing that everyone should learn from your visualization? And why does your visualization succeed at explaining it? (+2 points) | The video ends with a takeaway message but the presentation could be improved (e.g. the takeaway isn’t surprising, or focuses too much on the implementation of the visualization), or does not end with a takeaway message at all. (+1 point)                                          |
 | **Creativity and Originality**              | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (up to +1 bonus point)                                    | The submission meets the assignment requirements. (+0 points)                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                         |
 
-### Project Showcase (6/11/2026)
+### Project Showcase (12/10/2026)
 
 Attendance at the project showcase is worth 5% of your overall grade. You will
 receive the points if you attend the showcase for the entire duration and
 present your work with your team during your presentation time slot.
 
-### Team Citizenship Feedback Form (6/12/2026)
+### Team Citizenship Feedback Form (12/11/2026)
 
 You will submit a team feedback form where you will assess the citizenship (not contributions!) of
 your teammates and reflect on your group collaboration. This will be used to adjust final project scores according to [our citizenship grading policies](../team_grading_preview).
