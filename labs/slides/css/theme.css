@@ -135,6 +135,10 @@ header.slide {
 	}
 }
 
+.slide details.notes {
+	font-size: .5em;
+}
+
 .syntax-breakdown {
 	--color-2: var(--color-green);
 }
