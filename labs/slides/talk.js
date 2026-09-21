@@ -6,7 +6,7 @@ import "./prism.js";
 import Inspire from "https://inspirejs.org/inspire.mjs";
 import { SELECTOR as TARGET_WIDTH_SELECTOR } from "./plugins/target-width/plugin.js";
 
-let path = new URL("./plugins", import.meta.url);
+let base = new URL("./plugins/", import.meta.url);
 Inspire.plugins.register({
 	"syntax-breakdown": {
 		test: ".syntax-breakdown",
