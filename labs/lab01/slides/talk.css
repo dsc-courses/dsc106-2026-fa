@@ -152,6 +152,10 @@
 
 	&[data-step] {
 		background-size: 220% 220%, cover;
+
+		h1, li {
+			color: black;
+		}
 	}
 
 	> :is(p, ol, ul) {
@@ -181,11 +185,15 @@
 			text-indent: .3em;
 		}
 
-		li:nth-child(2) {
-			&::marker {
-				font-size: 2em;
-				line-height: .4;
-			}
+		.server-icon::before {
+			content: '';
+			display: inline-block;
+			width: 1em;
+			height: 1.38em;
+			background: url('images/server.svg') no-repeat center / contain;
+			vertical-align: middle;
+			margin-right: .3em;
+			font-size: 2em;
 		}
 	}
 
