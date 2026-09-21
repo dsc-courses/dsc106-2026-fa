@@ -8,8 +8,8 @@
 	--font-cursive: Zapfino, "Apple Chancery", BrushScriptMT, cursive;
 	--font-monospace: Consolas, Inconsolata, Noto Sans Mono, Source Code Pro, Roboto Mono, Menlo, Monaco, monospace;
 
-	--color-accent-1: var(--color-aqua);
-	--color-accent-2: var(--color-magenta);
+	--color-accent-1: var(--color-cyan);
+	--color-accent-2: var(--color-pink);
 	--color-accent-3: var(--color-green);
 	--color-accent-4: var(--color-orange);
 	--color-accent-5: var(--color-blue);
