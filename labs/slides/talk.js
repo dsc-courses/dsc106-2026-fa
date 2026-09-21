@@ -3,7 +3,9 @@
  */
 
 import "./prism.js";
-import Inspire from "https://inspirejs.org/client_modules/@inspirejs/core@3.1.0/inspire.mjs";
+import Inspire from "https://inspirejs.org/inspire.mjs";
+import "@inspirejs/core/util";
+import "@inspirejs/plugins";
 import { SELECTOR as TARGET_WIDTH_SELECTOR } from "./plugins/target-width/plugin.js";
 
 let base = new URL("./plugins/", import.meta.url);
