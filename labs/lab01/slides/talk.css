@@ -2,7 +2,7 @@
 @import url("components.css");
 
 :root {
-	--cover-image: url("labs/lab01/slides/images/cover.webp");
+	--cover-image: url("./labs/lab01/slides/images/cover.webp");
 }
 
 #hi,
