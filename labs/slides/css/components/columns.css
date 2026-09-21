@@ -46,9 +46,9 @@
 		gap: .5rem;
 		flex: 1;
 
-		&.delayed.displayed {
-			opacity: 1;
-		}
+		&.delayed:is(.current, .past) {
+        	opacity: 1;
+  		}
 
 		h2 {
 			margin-block: 0;
