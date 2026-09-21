@@ -185,15 +185,30 @@
 			text-indent: .3em;
 		}
 
+		.client-icon,
+		.server-icon {
+			display: flex;
+			align-items: baseline;
+		}
+
+		.client-icon::before,
 		.server-icon::before {
-			content: '';
-			display: inline-block;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
 			width: 1em;
 			height: 1.38em;
-			background: url('images/server.svg') no-repeat center / contain;
-			vertical-align: middle;
 			margin-right: .3em;
-			font-size: 2em;
+			line-height: normal;
+		}
+
+		.client-icon::before {
+			content: '🖥️';
+		}
+
+		.server-icon::before {
+			content: '';
+			background: url('images/server.svg') no-repeat center / contain;
 		}
 	}
 
