@@ -302,13 +302,13 @@
 		transform-origin: bottom left;
 		opacity: 1;
 
-		&.displayed {
+		&:is(.current, .past) {
 
-		}
+  		}
 
-		&:not(.displayed) {
-			transform: scale(3);
-		}
+		&:not(.current, .past) {
+        	transform: scale(3);
+  		}
 
 		&.current {
 			&:has(.current) {
