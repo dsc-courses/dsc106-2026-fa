@@ -10,19 +10,19 @@ let base = new URL("./plugins/", import.meta.url);
 Inspire.plugins.register({
 	"syntax-breakdown": {
 		test: ".syntax-breakdown",
-		path
+		base
 	},
 	"target-width": {
 		test: TARGET_WIDTH_SELECTOR,
-		path
+		base
 	},
 	"browser": {
 		test: ".browser",
-		path
+		base
 	},
 	"tree": {
 		test: ".tree",
-		path
+		base
 	},
 });
 
