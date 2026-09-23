@@ -234,9 +234,9 @@ Project Showcase.**
 
 ### Office Hours
 
-To get help on assignments and concepts, the TAs will be hosting office hours
-each week. **TA office hour times and locations are TBD** and will be announced
-on the [Calendar](../calendar) tab of the course website once finalized.
+To get help on assignments and concepts, the TAs host office hours each week.
+**TA office hours are held remotely over Zoom** — the schedule and the Zoom link
+for each session are on the [Calendar](../calendar) tab of the course website.
 
 **Professor office hours are by appointment.** Email me to set up a time.
 

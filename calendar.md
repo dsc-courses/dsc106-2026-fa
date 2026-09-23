@@ -14,8 +14,13 @@ Lectures are held in person on Tuesdays and Thursdays:
 | 001     | TuTh 3:30-4:50pm     | Coalition Building B27 |
 | 002     | TuTh 11:00am-12:20pm | Podemos 1A19           |
 
-**TA office hours are TBD.** They will appear on the calendar below once the
-schedule is finalized.
+**TA office hours are held remotely over Zoom.** The Zoom link for each session
+is in the corresponding event on the calendar below.
+
+| TA    | Office Hours                                            |
+| ----- | ------------------------------------------------------- |
+| Ben   | Tue 1:00-3:00pm, Wed 1:00-4:00pm                         |
+| Jiaen | Mon 4:15-6:15pm, Wed 10:00am-12:00pm, Thu 10:00-11:00am  |
 
 **Professor office hours are by appointment** — please
 [make a private post on Ed](https://edstem.org/us/courses/106214/discussion) to
