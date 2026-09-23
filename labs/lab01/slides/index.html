@@ -10,6 +10,7 @@
 	<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🕸️</text></svg>' />
 
 	<link href="talk.css" rel="stylesheet" />
+	<script src="https://inspirejs.org/importmap.js"></script>
 	<script src="talk.js" type="module"></script>
 </head>
 <body class="language-css no-docs no-media" data-markdown-elements="details.notes, .md, .md-children > *">
@@ -51,7 +52,7 @@
 		<code class="syntax-breakdown language-url target-width-80" data-tooltip="bottom" style="--line-length: 3em">
 			<span title="Protocol">https:</span>//
 			<span title="Host">dsc106.com</span>
-			<span title="Path to resource">/labs/1/hello.html</span>
+			<span title="Path to resource">/labs/lab01/hello.html</span>
 		</code>
 		<details class="notes">
 			What many people don’t realize is that the Web was primarily a usability innovation, and the URL was the centerpiece of that.
@@ -79,7 +80,7 @@
 
 			<label>
 				Base:
-				<input type="url" name="base" value="https://dsc106.com/labs/1/index.html">
+				<input type="url" name="base" value="https://dsc106.com/labs/lab01/index.html">
 			</label>
 			Result: <output name="result"></output>
 		</form>
@@ -109,7 +110,7 @@
 		</header>
 		<code class="syntax-breakdown language-url target-width-80" style="--char-aspect-ratio: 2.215">
 			<span title="Protocol">file:</span>//
-			<span title="Path to resource from filesystem root">/Users/giorgianicolaou/Documents/dsc106/labs/1/hello.html</span>
+			<span title="Path to resource from filesystem root">/Users/name/Documents/dsc106/labs/lab01/hello.html</span>
 		</code>
 		<details class="notes">
 			Let’s look at a different example.
@@ -146,10 +147,10 @@
 			<h1>Clients <span class="amp">&</span> Servers</h1>
 
 			<ul>
-				<li style="list-style: '🖥️'">
+				<li style="list-style: none" class="client-icon">
 					<strong>Clients</strong> make requests for resources
 				</li>
-				<li style="list-style: url('images/server.svg')">
+				<li style="list-style: none" class="server-icon">
 					<strong>Servers</strong> listen for such requests and respond with the resources (or an error)
 				</li>
 
@@ -167,9 +168,9 @@
 		<div class="speech subject-bottom" id="http-request">
 			<figure class="subject">
 				<div class="computer">
-					<div class="browser delayed" data-url="https://dsc106.com/labs/1/hello.html">
+					<div class="browser delayed" data-url="https://dsc106.com/labs/lab01/hello.html">
 						<iframe class="delayed" srcdoc="<h1>Hello world!</h1>
-							<p>This is my <em>first</em> web page! 🤯</p>" data-index="4"></iframe>
+							<p>This is my <em>first</em> web page! 🤯</p>"></iframe>
 					</div>
 				</div>
 				<figcaption>Client</figcaption>
@@ -177,7 +178,7 @@
 
 			<div class="text delayed">
 				<pre class="syntax-breakdown no-trim" style="--label: 'HTTP request'"><code>
-					<span>GET</span> /labs/1/hello.html HTTP/1.1
+					<span>GET</span> /labs/lab01/hello.html HTTP/1.1
 					<span title="HTTP header" style="--line-length: .6em">User-Agent: Mozilla/5.0 Firefox/71.0</span>
 					Host: dsc160.com
 					Accept-Language: en-us
@@ -301,7 +302,7 @@
 			[CSS Zen Garden](https://csszengarden.com/) was built to demonstrate this point by showing how the same HTML can be styled in completely different ways by different CSS files,
 			and significantly contributed to CSS’s adoption at the time.
 
-			You can view a web page with the HTML, CSS, and JS from this slide at [`labs/1/first.html`](../first.html)
+			You can view a web page with the HTML, CSS, and JS from this slide at [`labs/lab01/first.html`](../first.html)
 		</details>
 	</article>
 
@@ -510,7 +511,7 @@
 		<pre><code class="syntax-breakdown">
 			<span title="HTML5+ Doctype = “This is modern HTML”">&lt;!DOCTYPE html></span>
 			<span title="Root element" data-tooltip="top">&lt;html <span title="Content language" data-tooltip="right">lang="en"</span>>
-			<span title="Metadata about the page (not displayed)" style="--line-length: 3em; --offset: 1em;">&lt;head>
+			<span title="Metadata about the page (not displayed)" style="--line-length: 3em; --offset: 1em; --tooltip-alignment: end;">&lt;head>
 				<span xtitle="Character encoding" data-tooltip="right">&lt;meta charset="UTF-8"></span>
 				<span xtitle="How to render on mobile" style="--line-length: 2em; offset: 1em;">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"></span>
 				<span title="Page title shown in browser tab" data-tooltip="right">&lt;title>Document&lt;/title></span>

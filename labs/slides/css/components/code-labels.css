@@ -7,12 +7,12 @@ code:not(pre > code) {
 
 	&.language-css {
 		--label: "CSS";
-		--color: var(--color-aqua);
+		--color: var(--color-cyan);
 	}
 
 	&.language-scss {
 		--label: "SCSS";
-		--color: var(--color-magenta);
+		--color: var(--color-pink);
 	}
 
 	&.language-javascript,

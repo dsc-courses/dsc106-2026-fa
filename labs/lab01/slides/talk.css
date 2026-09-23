@@ -2,7 +2,7 @@
 @import url("components.css");
 
 :root {
-	--cover-image: url("https://vis-society.github.io/labs/1/slides/images/cover.webp");
+	--cover-image: url("../../lab01/slides/images/cover.webp");
 }
 
 #hi,
@@ -152,6 +152,10 @@
 
 	&[data-step] {
 		background-size: 220% 220%, cover;
+
+		h1, li {
+			color: black;
+		}
 	}
 
 	> :is(p, ol, ul) {
@@ -181,11 +185,30 @@
 			text-indent: .3em;
 		}
 
-		li:nth-child(2) {
-			&::marker {
-				font-size: 2em;
-				line-height: .4;
-			}
+		.client-icon,
+		.server-icon {
+			display: flex;
+			align-items: baseline;
+		}
+
+		.client-icon::before,
+		.server-icon::before {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			width: 1em;
+			height: 1.38em;
+			margin-right: .3em;
+			line-height: normal;
+		}
+
+		.client-icon::before {
+			content: '🖥️';
+		}
+
+		.server-icon::before {
+			content: '';
+			background: url('images/server.svg') no-repeat center / contain;
 		}
 	}
 
@@ -302,13 +325,13 @@
 		transform-origin: bottom left;
 		opacity: 1;
 
-		&.displayed {
+		&:is(.current, .past) {
 
-		}
+  		}
 
-		&:not(.displayed) {
-			transform: scale(3);
-		}
+		&:not(.current, .past) {
+        	transform: scale(3);
+  		}
 
 		&.current {
 			&:has(.current) {

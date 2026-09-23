@@ -6,9 +6,9 @@
 		overflow: visible;
 	}
 
-	.tooltip:not(.current > *, .displayed > *) {
-		display: none;
-	}
+	.tooltip:not(.current > *, .past > *) {
+        display: none;
+  	}
 
 	& span[title],
 	& span:has(> .tooltip) {
@@ -38,9 +38,9 @@
 		border-radius: .5rem;
 		transition: none;
 
-		&.displayed {
-			opacity: 1;
-		}
+		&.past {
+        	opacity: 1;
+  		}
 
 		&.current {
 			background: var(--_color-1);

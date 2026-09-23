@@ -3,26 +3,28 @@
  */
 
 import "./prism.js";
-import Inspire from "https://inspirejs.org/inspire.mjs";
+import Inspire from "https://inspirejs.org/client_modules/@inspirejs/core@3.1.0/inspire.mjs";
+import "@inspirejs/core/util";
+import "@inspirejs/plugins";
 import { SELECTOR as TARGET_WIDTH_SELECTOR } from "./plugins/target-width/plugin.js";
 
-let path = new URL("./plugins", import.meta.url);
+let base = new URL("./plugins/", import.meta.url);
 Inspire.plugins.register({
 	"syntax-breakdown": {
 		test: ".syntax-breakdown",
-		path
+		base
 	},
 	"target-width": {
 		test: TARGET_WIDTH_SELECTOR,
-		path
+		base
 	},
 	"browser": {
 		test: ".browser",
-		path
+		base
 	},
 	"tree": {
 		test: ".tree",
-		path
+		base
 	},
 });
 
