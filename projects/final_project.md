@@ -3,7 +3,7 @@ layout: assignment
 title: "Final Project"
 parent: "📝 Projects"
 released: false
-nav_order: 6
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->

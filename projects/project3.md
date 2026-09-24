@@ -3,7 +3,7 @@ layout: assignment
 title: 'Project 3: Interactive Visualization'
 parent: '📝 Projects'
 released: false
-nav_order: 4
+nav_order: 5
 ---
 
 # Project 3: Interactive Visualization

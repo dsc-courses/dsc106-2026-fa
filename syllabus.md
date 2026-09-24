@@ -156,17 +156,18 @@ You will access labs by pulling the course GitHub repository.
 
 ### Projects
 
-There will be **4 projects** due throughout the quarter. The projects are
+There will be **5 projects** due throughout the quarter. The projects are
 open-ended and are the primary focus of the course. **As such, our standards for
 grading will be similar to the way portfolio pieces are evaluated for
 internship/research lab/job applications --- we expect your best work!** The
-first project is a **solo** project. For Project 2, 3 and the Final Project,
-you may work in groups of either 3 or 4 students.
+first project is a **solo** project. For Projects 2, 2.5, 3 and the Final
+Project, you may work in groups of either 3 or 4 students.
 
 **Working in Groups**
 
-You will work together on Project 2, Project 3 and the Final Project in a group
-of 3-4 students. You will be required to actively contribute to all parts of the
+You will work together on Project 2, Project 2.5, Project 3 and the Final
+Project in a group of 3-4 students. **Project 2.5 uses the same teams as Project
+2** — you do not re-form groups for it. You will be required to actively contribute to all parts of the
 project. You are encouraged to follow the pair programming model, in which you
 work on just a single computer and alternate who writes the code and who thinks
 about the problems at a high level.
@@ -262,11 +263,12 @@ Here is how we'll compute your grade:
 | ------------------- | ------ | ------------------------------------------------------------------------------------------------ |
 | Participation       | 8%     | 1% per week, 2 lowest weeks dropped                                                              |
 | Labs                | 8%     | 1% per lab                                                                                       |
-| Project 1           | 10%    |                                                                                                  |
-| Project 2           | 15%    | 14% for submission, 1% for peer review                                                           |
-| Project 3           | 15%    | 14% for submission, 1% for peer review                                                           |
-| Project Checkpoints | 4%     | 1% for Project 1 and 2 checkpoints, 2% for Project 3 checkpoint                                  |
-| Final Project       | 40%    | 1% for proposal, 2% prototype, 10% video, 2% feedback meeting, 20% final submission, 5% showcase |
+| Project 1           | 8%     |                                                                                                  |
+| Project 2           | 14%    | 13% for submission, 1% for peer review                                                           |
+| Project 2.5         | 14%    |                                                                                                  |
+| Project 3           | 14%    | 13% for submission, 1% for peer review                                                           |
+| Project Checkpoints | 4%     | 2% each for Project 2 and Project 3 checkpoints                                                  |
+| Final Project       | 30%    | 1% for proposal, 2% prototype, 7% video, 2% feedback meeting, 14% final submission, 4% showcase  |
 
 ### Late Policy, Slip Days, and Drops
 
@@ -283,7 +285,8 @@ on an assignment depends on the kind of assignment:
 - On labs, you may use up to 1 slip day.
 - On projects, you may use up to 2 slip days. Projects will not be
   accepted more than 48 hours after the deadline. Note that you will not be
-  able to use slip days on the Final Project Deliverables.
+  able to use slip days on the Final Project Deliverables, or on Project 2.5
+  (its in-class showcase is two days after the deadline).
 
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an

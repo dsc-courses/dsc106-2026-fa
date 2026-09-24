@@ -3,7 +3,7 @@ layout: assignment
 title: 'Project 3: Interactive Visualization - Peer Grading'
 parent: '📝 Projects'
 released: false
-nav_order: 5
+nav_order: 6
 ---
 
 # Project 3: Interactive Visualization - Peer Grading
