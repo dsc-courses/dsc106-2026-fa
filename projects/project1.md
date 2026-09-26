@@ -156,18 +156,9 @@ project requirements (Satisfactory column) will get 8.5/10 points.
 
 ## Submission Details
 
-This is an individual assignment. **You may not work in groups.** There is a checkpoint
-submission due on **Wed 09/30, by 11:59pm**. Your
+This is an individual assignment. **You may not work in groups.**  Your
 completed assignment is due on **Wed 10/07, by 11:59pm**.
 
-### Checkpoint Submission
-
-You must submit your assignment using Gradescope. Please upload a single PDF with the following:
-
-<ul>
-    <li>3 plots that you are considering for your project</li>
-    <li>1 paragraph describing which plot you prefer the most and why</li>
-</ul>
 
 ### Final Submission
 
