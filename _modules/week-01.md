@@ -7,12 +7,6 @@ days:
       - name: LEC 2
         type: lecture
         title: Data & Image Models
-  - date: "2026-09-30"
-    events:
-      - name: PROJ 1
-        type: proj
-        title: Project 1 Checkpoint
-        url: ../projects/project1
   - date: "2026-10-01"
     events:
       - name: LEC 3
