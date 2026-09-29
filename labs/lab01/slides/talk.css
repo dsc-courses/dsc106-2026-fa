@@ -5,6 +5,21 @@
 	--cover-image: url("../../lab01/slides/images/cover.webp");
 }
 
+/* The syntax-breakdown tooltip labels (e.g. "Selector", "Declaration") use a
+   fixed 3rem font size that doesn't scale with the viewport at all, so on a
+   smaller screen (e.g. a laptop) they end up disproportionately large relative
+   to the (viewport-scaled) diagram around them and can spill past its edges.
+   Scale them with the viewport instead (like the rest of the slide), rather
+   than with the span they're attached to -- code snippets on different slides
+   are sized very differently (a short one-word breakdown vs. a long line of
+   code), so tying the label size to that would make it inconsistent from
+   slide to slide instead of just fixing the viewport-scaling problem. */
+.syntax-breakdown span[title].current::before,
+.syntax-breakdown span[title].current::after,
+.syntax-breakdown span[title].current > .tooltip {
+	font-size: calc(1.2 * var(--slide-base-font-size, 1rem)) !important;
+}
+
 #hi,
 #tas {
 	img.avatar,
@@ -268,6 +283,11 @@
 }
 
 #request-response {
+	/* This diagram's width doesn't otherwise scale with the slide's default
+	   font size (which grows with viewport height as well as width), so on
+	   shorter/narrower windows (e.g. laptops) the client/server boxes can
+	   overflow off-screen. Cap it to a font size based on viewport width alone. */
+	font-size: min(var(--slide-base-font-size), 2.3vw);
 	flex-flow: row;
 	align-items: end;
 	justify-content: space-between;
@@ -448,7 +468,10 @@
 #html-elements {
 	gap: 1em;
 
-	ul {
-		font-size: 90%;
+	/* There's too much content here to fit at the slide's default font size
+	   (it was overflowing past the bottom of the slide, and individual list
+	   items were overflowing past the right edge instead of wrapping). */
+	section.md {
+		font-size: .65em;
 	}
 }
