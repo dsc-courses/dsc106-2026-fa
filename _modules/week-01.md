@@ -7,6 +7,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Data & Image Models
+        url: https://drive.google.com/file/d/1nSmv9Lsg8ai8V7I2aZ-UgHjYjH_1MZSG/view?usp=sharing
   - date: "2026-10-01"
     events:
       - name: LEC 3
