@@ -9,12 +9,15 @@
    fixed 3rem font size that doesn't scale with the viewport at all, so on a
    smaller screen (e.g. a laptop) they end up disproportionately large relative
    to the (viewport-scaled) diagram around them and can spill past its edges.
-   Scale them with the surrounding content instead, matching their fixed-size
-   look at a "normal" desktop viewport. */
+   Scale them with the viewport instead (like the rest of the slide), rather
+   than with the span they're attached to -- code snippets on different slides
+   are sized very differently (a short one-word breakdown vs. a long line of
+   code), so tying the label size to that would make it inconsistent from
+   slide to slide instead of just fixing the viewport-scaling problem. */
 .syntax-breakdown span[title].current::before,
 .syntax-breakdown span[title].current::after,
 .syntax-breakdown span[title].current > .tooltip {
-	font-size: .48em !important;
+	font-size: calc(1.2 * var(--slide-base-font-size, 1rem)) !important;
 }
 
 #hi,
