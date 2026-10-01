@@ -13,6 +13,7 @@ days:
       - name: LEC 3
         type: lecture
         title: (In)Effective Visual Encoding
+        url: https://drive.google.com/file/d/1DislNmNZsEhhQraTE3b7QmbiMqTS_cqK/view?usp=sharing
       - name: BONUS
         type: lecture
         title: How will Project 1 be graded?
