@@ -8,13 +8,19 @@
 
 	<script type="importmap">
 		{
-  			"imports": {
-    		"colorjs.io": "https://colorjs.io/dist/color.js",
-    		"nude-element": "https://cdn.jsdelivr.net/npm/nude-element/src/index.js",
-    		"nude-element/plugins": "https://cdn.jsdelivr.net/npm/nude-element/src/plugins/index.js"
-  		}
-	}
-</script>
+		  "imports": {
+		    "colorjs.io": "https://colorjs.io/dist/color.js",
+		    "nude-element": "https://cdn.jsdelivr.net/npm/nude-element@0.1.7/src/index.js",
+		    "nude-element/plugins": "https://cdn.jsdelivr.net/npm/nude-element@0.1.7/src/plugins/index.js",
+		    "xtensible": "https://cdn.jsdelivr.net/npm/xtensible@0.0.2/src/index.js",
+		    "xtensible/util": "https://cdn.jsdelivr.net/npm/xtensible@0.0.2/src/util.js",
+		    "xtensible/hooks": "https://cdn.jsdelivr.net/npm/xtensible@0.0.2/src/hooks.js",
+		    "xtensible/symbols": "https://cdn.jsdelivr.net/npm/xtensible@0.0.2/src/symbols.js",
+		    "xtensible/plugins": "https://cdn.jsdelivr.net/npm/xtensible@0.0.2/plugins/index.js",
+		    "get-symbols": "https://cdn.jsdelivr.net/npm/get-symbols@0.0.3/index.js"
+		  }
+		}
+	</script>
 
 	<title>Lab 2: Styling with CSS</title>
 
@@ -22,10 +28,11 @@
 
 	<link href="talk.css" rel="stylesheet" />
 
+	<script src="https://inspirejs.org/importmap.js"></script>
 	<script src="talk.js" type="module"></script>
 
 </head>
-<body class="language-css no-media code-labels" data-markdown-elements="details.notes, .md, .md-children > *" data-load-plugins="docs">
+<body class="language-css no-docs no-media code-labels" data-markdown-elements="details.notes, .md, .md-children > *">
 
 <header id="intro" class="slide dont-resize">
 	<h1>
@@ -739,7 +746,7 @@
 			<pre><code>
 				h1 {
 					color: <color-swatch>darkgoldenrod</color-swatch>;
-					<del class="delayed persistent" data-index="4">color: <color-swatch>lightgoldenrod</color-swatch>;</del>
+					<del class="delayed persistent" data-index="4">color: <color-swatch>lightgoldenrodyellow</color-swatch>;</del>
 				}
 			</code></pre>
 			<div class="arrow-down"></div>
