@@ -7,6 +7,7 @@ days:
       - name: LEC 4
         type: lecture
         title: Perception
+        url: https://drive.google.com/file/d/1PUlZzvB7jpYq3sUWOdNKLLxLSq8AAjSG/view?usp=sharing
   - date: "2026-10-07"
     events:
       - name: PROJ 1
