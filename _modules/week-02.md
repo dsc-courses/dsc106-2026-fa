@@ -18,7 +18,8 @@ days:
     events:
       - name: LEC 5
         type: lecture
-        title: Color
+        title: "Perception(Part 2), Color"
+        url: https://drive.google.com/file/d/1XwjdyP-1TsJQ1iIG_0aSvTX2kd_Rw9uH/view?usp=sharing
   - date: "2026-10-09"
     events:
       - name: LAB 2
