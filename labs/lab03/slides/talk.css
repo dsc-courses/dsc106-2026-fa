@@ -2,6 +2,7 @@
 @import url("https://prismjs.com/plugins/line-numbers/prism-line-numbers.css");
 
 :root {
+	--cover-image: url("../../lab03/slides/images/cover.webp");
 	--line-length: 2em;
 }
 
@@ -23,8 +24,7 @@
 }
 
 #intro {
-	--background-color-overlay: var(--color-neutral-100);
-	background: radial-gradient(transparent, rgb(0 0 0 / .7)), linear-gradient(var(--background-color-overlay) 0 100%) canvas;
+	background: radial-gradient(transparent, rgb(0 0 0 / .7)), var(--cover-image) center / cover no-repeat;
 
 	img {
 		width: 4em;

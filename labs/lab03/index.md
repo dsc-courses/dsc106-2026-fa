@@ -49,7 +49,7 @@ Please record your screen on your laptop, not your phone. One easy way to do thi
 Please note that the video has to be in **mp4 format only.** There will be point deductions for other video formats.
 
 **Videos longer than 1 minute will be trimmed to 1 minute before we grade, so
-make sure your video is 1 minute or less.**
+make sure your video is 1 minute or less.** (There will be point deductions for video over 1 minute).
 
 ## Prerequisites
 
