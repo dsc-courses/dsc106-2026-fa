@@ -131,7 +131,7 @@ expectations for a particular week:
 
 1. **Attend both lectures in person and participate in the lecture exercises.**
    Participation is tracked using an online form given during class. As long as
-   you respond to at least 50% of the prompts during a lecture, you earn credit
+   you respond to at least one of the prompts during a lecture, you earn credit
    for that day.
 
 2. **Participate remotely.** Watch the lecture podcast and submit the [remote
