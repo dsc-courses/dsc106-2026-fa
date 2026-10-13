@@ -6,7 +6,8 @@ days:
     events:
       - name: LEC 6
         type: lecture
-        title: JavaScript
+        title: Color (Part 2)
+        url: https://drive.google.com/file/d/19En9Jkj5e5Z8PiRB_tXcEJEatzIp-jcx/view?usp=sharing
   - date: "2026-10-14"
     events:
       - name: PROJ 2
