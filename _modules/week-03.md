@@ -18,13 +18,12 @@ days:
     events:
       - name: LEC 7a
         type: lecture
-        title: Working in Teams
+        title: JavaScript
+        url: https://drive.google.com/file/d/1N4MQnGX2FjLvuzQM7JVNSxkvlcvjXxGS/view?usp=sharing
       - name: LEC 7b
         type: lecture
         title: How will Project 2 be graded?
-      - name: LEC 7c
-        type: lecture
-        title: D3.js Part 1
+        url: https://drive.google.com/file/d/1AT8TaHJpgkxjh3NJHwF6wMojiQPseDd-/view?usp=sharing
   - date: "2026-10-16"
     events:
       - name: LAB 3
