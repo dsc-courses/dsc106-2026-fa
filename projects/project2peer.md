@@ -2,7 +2,7 @@
 layout: assignment
 title: 'Project 2: Deceptive Visualization - Peer Grading'
 parent: '📝 Projects'
-released: false
+released: true
 nav_order: 3
 ---
 
