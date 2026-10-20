@@ -6,7 +6,8 @@ days:
     events:
       - name: LEC 8
         type: lecture
-        title: D3.js Part 2
+        title: D3.js (Part 1)
+        url: https://drive.google.com/file/d/1BEOGA_NaqqBndaU7j8gClSu79bA7xgDI/view?usp=sharing
   - date: "2026-10-21"
     events:
       - name: PROJ 2
