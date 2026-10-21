@@ -2,7 +2,7 @@
 layout: assignment
 title: 'Project 2.5: Visualization Critique'
 parent: '📝 Projects'
-released: false
+released: true
 nav_order: 4
 due: 'Tue October 27, 11:59pm PT'
 ---
