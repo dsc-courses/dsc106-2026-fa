@@ -286,7 +286,7 @@ on an assignment depends on the kind of assignment:
 - On projects, you may use up to 2 slip days. Projects will not be
   accepted more than 48 hours after the deadline. Note that you will not be
   able to use slip days on the Final Project Deliverables, or on Project 2.5
-  (its in-class showcase is two days after the deadline).
+  (it is due the same day as its in-class showcase).
 
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an

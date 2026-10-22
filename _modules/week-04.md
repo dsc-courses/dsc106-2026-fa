@@ -17,7 +17,8 @@ days:
     events:
       - name: LEC 9
         type: lecture
-        title: Interaction
+        title: D3.js (Part 2)
+        url: https://drive.google.com/file/d/1kjEVQLe6y8EMqIXYC1eqF7ZNnPt0-IqJ/view?usp=sharing
   - date: "2026-10-23"
     events:
       - name: LAB 4

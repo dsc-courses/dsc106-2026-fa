@@ -7,10 +7,6 @@ days:
       - name: LEC 10
         type: lecture
         title: "Climate Datasets (Guest Lecture: Duncan Watson-Parris)"
-      - name: PROJ 2.5
-        type: proj
-        title: "Project 2.5: Visualization Critique"
-        url: ../projects/project2-5
   - date: "2026-10-28"
     events:
       - name: PROJ 3
@@ -25,6 +21,10 @@ days:
       - name: LEC 11
         type: lecture
         title: Project 2.5 Showcase
+      - name: PROJ 2.5
+        type: proj
+        title: "Project 2.5: Visualization Critique"
+        url: ../projects/project2-5
   - date: "2026-10-30"
     events:
       - name: LAB 5
