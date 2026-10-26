@@ -47,7 +47,7 @@ As soon as you have formed a team and chosen a dataset, complete the team format
 Your submission must include a **concise title for your interactive visualization** (we will get the UCSD email and names of your groupmates from the group submission!). 
 The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners,
 please post to Ed to find classmates with similar interests! **You should
-submit your team registration by Friday 10/23, 11:59 pm.** Please ensure that the
+submit your team registration by Tuesday 10/27, 5:00 pm.** Please ensure that the
 team has been finalized before filling the form, and that the details are
 correct.
 
@@ -123,7 +123,7 @@ The assignment is out of 14 points possible. Submissions that squarely meet the 
 
 ### Team Registration
 
-Submit your team submission form on GradeScope by **Friday 10/23, 11:59 PM**.
+Submit your team submission form on GradeScope by **Tuesday 10/27, 5:00 PM**.
 
 ### Checkpoint Submission
 
