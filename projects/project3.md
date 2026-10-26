@@ -127,7 +127,7 @@ Submit your team submission form on GradeScope by **Tuesday 10/27, 6:00 PM**.
 
 ### Checkpoint Submission
 
-The submission must be made on gradescope by **Wed 10/29, 11:59 PM**. For this submission, submit an **mp4** video no longer than 2 minutes with the following details:
+The submission must be made on gradescope by **Thursday 10/29, 11:59 PM**. For this submission, submit an **mp4** video no longer than 2 minutes with the following details:
 
 1. Name of your team and team members
 2. Dataset chosen. Explain the aspects of the datasets you plan to use.
