@@ -13,17 +13,15 @@ days:
       - name: LEC 12c
         type: lecture
         title: Maps
-  - date: "2026-11-04"
-    events:
-      - name: PROJ 3
-        type: proj
-        title: "Project 3: Interactive Visualization"
-        url: ../projects/project3
   - date: "2026-11-05"
     events:
       - name: LEC 13
         type: lecture
         title: Narrative
+      - name: PROJ 3
+        type: proj
+        title: Project 3 Checkpoint
+        url: ../projects/project3
   - date: "2026-11-06"
     events:
       - name: LAB 6
