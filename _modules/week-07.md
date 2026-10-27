@@ -21,9 +21,6 @@ days:
       - name: LEC 15
         type: lecture
         title: Uncertainty & Review
-      - name: PROJ 3
-        type: proj
-        title: Project 3 Peer Review
       - name: FINAL PROJ
         type: proj
         title: Final Project Proposal

@@ -17,6 +17,9 @@ days:
       - name: LEC 17
         type: lecture
         title: Final Project Feedback
+      - name: PROJ 3
+        type: proj
+        title: Project 3 Peer Review
   - date: "2026-11-20"
     events:
       - name: LAB 8
