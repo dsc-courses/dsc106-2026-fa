@@ -16,10 +16,10 @@ due: 'Thu October 29, 10:00am PT'
 > In this short assignment, your team will find a data visualization "in the
 > wild," critique it using the vocabulary from Lectures 1–6, and pitch your
 > critique to the class in a **3-minute elevator pitch** at the Project 2.5
-> Showcase. During the showcase, you will individually peer review other teams' pitches.
+> Showcase. During the showcase, your team will peer review other teams' pitches.
 >
 > This is a group assignment — **stay in your Project 2 teams**. The peer review
-> is individual.
+> is also done as a team: **one response per team**.
 >
 > **Team Submission Due: Thu 10/29, by 10:00am** (before lecture)
 >
@@ -77,7 +77,7 @@ choices worked, and explaining why — all in three minutes.
 4. **Submit** your slide and links to Gradescope before lecture on Thursday
    10/29, then **present** at the Project 2.5 Showcase.
 
-5. **Peer review** other teams' pitches individually (see
+5. **Peer review** other teams' pitches as a team (see
    [Peer Review](#peer-review)).
 
 ## The Elevator Pitch
@@ -133,8 +133,10 @@ for your peer review.
 
 This part is also done in **groups**. You will finish this part, with your team, in class.
 
-During the showcase, the professor will queue the class that the following next three pitches for each of you is what you need to peer-review. For
-each, give constructive feedback on their pitch using the
+During the showcase, your team reviews the three pitches it watches as the
+audience in the **last 3 slots of each half** of the rotation (the peer-review
+slots). Your team's itinerary on the showcase rotation page lists exactly which
+teams you review. For each, give constructive feedback on their pitch using the
 ["I like / I wish / What if?"][ilike] format: positive feedback on effective
 aspects, critical (but respectful!) feedback on what could be improved, and
 more speculative ideas they could have explored. Consider:
@@ -147,7 +149,12 @@ more speculative ideas they could have explored. Consider:
 
 For **each** of the three teams, write **at least two** statements in **each**
 of the I like / I wish / What if? categories — at least 6 statements per team
-and at least 18 in total. Submit on Google Form during class.
+and at least 18 in total.
+
+**Each team submits just one response** to the
+[Project 2.5 Peer Review Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdJbNxG7EKn21gyBRT-kQzKB0PzaGRg8tvLOBLBUrtWbQeIUQ/viewform) during class, with one
+section for each of the three teams you review. Sign in with your UCSD account;
+the form only accepts UC San Diego accounts.
 
 [ilike]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/reading/I-Like-I-Wish-What-If.pdf
 
