@@ -7,6 +7,7 @@ days:
       - name: LEC 10
         type: lecture
         title: "Climate Datasets (Guest Lecture: Duncan Watson-Parris)"
+        url: https://drive.google.com/file/d/1-rro1yaeWZTRB_ZoZWP9PBzyuaLi-leJ/view?usp=sharing
   - date: "2026-10-28"
     events:
       # - name: PROJ 3
