@@ -1,8 +1,9 @@
+// author: Sam Lau
 // See original API call:
 // https://open-meteo.com/en/docs#latitude=32.87765&longitude=-117.237396&current=&minutely_15=&hourly=temperature_2m&daily=&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=America%2FLos_Angeles&models=
 
-// Note from Sam: I ran this code to get the data for the weather at Center
-// Hall, then saved the JSON as a file called weather-data.json.
+// Run this code to get the data for the weather at Center
+// Hall, then save the JSON as a file called weather-data.json.
 
 // const params = {
 //   latitude: 32.87765,
@@ -106,6 +107,16 @@ const verticalLine = svg
   .style('stroke-width', 1)
   .style('visibility', 'hidden');
 
+// Add a horizontal line for hover indication
+const horizontalLine = svg
+  .append('line')
+  .attr('class', 'hover-line')
+  .attr('x1', margin.left)
+  .attr('x2', width - margin.right)
+  .style('stroke', '#999')
+  .style('stroke-width', 1)
+  .style('visibility', 'hidden');
+
 // Create a rect overlay for mouse tracking
 const overlay = svg
   .append('rect')
@@ -121,10 +132,12 @@ const overlay = svg
 overlay
   .on('mouseover', () => {
     verticalLine.style('visibility', 'visible');
+    horizontalLine.style('visibility', 'visible');
     tooltip.style('visibility', 'visible');
   })
   .on('mouseout', () => {
     verticalLine.style('visibility', 'hidden');
+    horizontalLine.style('visibility', 'hidden');
     tooltip.style('visibility', 'hidden');
   })
   .on('mousemove', function (event) {
@@ -139,6 +152,7 @@ overlay
 
     // Update vertical line position
     verticalLine.attr('x1', xScale(time)).attr('x2', xScale(time));
+    horizontalLine.attr('y1', yScale(temp)).attr('y2', yScale(temp));
 
     // Update tooltip
     tooltip

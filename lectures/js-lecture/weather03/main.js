@@ -47,5 +47,12 @@ weatherData.hourly.temperature_2m.forEach((temp, index) => {
   text.setAttribute('y', 500 - temp * 6);
 
   text.textContent = temp;
+
+  if (temp < 50) {
+    text.setAttribute('fill', 'blue');
+  }
+
+
   svg.appendChild(text);
 });
+

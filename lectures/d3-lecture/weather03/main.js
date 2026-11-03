@@ -1,8 +1,9 @@
+// author: Sam Lau
 // See original API call:
 // https://open-meteo.com/en/docs#latitude=32.87765&longitude=-117.237396&current=&minutely_15=&hourly=temperature_2m&daily=&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=America%2FLos_Angeles&models=
 
-// Note from Sam: I ran this code to get the data for the weather at Center
-// Hall, then saved the JSON as a file called weather-data.json.
+// Run this code to get the data for the weather at Center
+// Hall, then save the JSON as a file called weather-data.json.
 
 // const params = {
 //   latitude: 32.87765,
@@ -42,7 +43,7 @@ const svg = d3.select('#weather-plot');
 
 const width = 1000;
 const height = 300;
-const margin = { top: 20, right: 20, bottom: 30, left: 40 };
+const margin = { top: 20, right: 20, bottom: 50, left: 60 };
 
 svg.attr('width', width);
 svg.attr('height', height);
@@ -51,9 +52,11 @@ svg.attr('height', height);
 const xScale = d3
   .scaleTime()
   .domain([
-    new Date(weatherData.hourly.time[0]),
-    new Date(weatherData.hourly.time[weatherData.hourly.time.length - 1]),
+   new Date(weatherData.hourly.time[0]),
+   new Date(weatherData.hourly.time[weatherData.hourly.time.length - 1]),
   ])
+  //.scaleLinear()
+  //.domain([0, weatherData.hourly.temperature_2m.length - 1])
   .range([margin.left, width - margin.right]);
 
 const yScale = d3
@@ -70,7 +73,9 @@ const xAxis = d3
   .ticks(d3.timeDay) // Show ticks for each day
   .tickFormat(d3.timeFormat('%m/%d')); // Format as month/day
 
-const yAxis = d3.axisLeft(yScale);
+const yAxis = d3.axisLeft(yScale)
+              .ticks(5)
+              .tickFormat(d => `${d}°F`);
 
 svg
   .append('g')
@@ -89,5 +94,22 @@ svg
   .data(weatherData.hourly.temperature_2m)
   .join('circle')
   .attr('cx', (d, i) => xScale(new Date(weatherData.hourly.time[i])))
+  //.attr('cx', (d, i) => xScale(i))
   .attr('cy', (d) => yScale(d))
   .attr('r', 2);
+
+
+
+svg
+  .append('text')
+  .attr('x', width/2-30)
+  .attr('y', height-margin.bottom + 40)
+  .text('Date');
+
+
+svg
+  .append('text')
+  .attr('transform', `translate(15, ${height / 2 -20}) rotate(-90)`)
+  .attr('text-anchor', 'middle')
+  .text('Temperature');
+

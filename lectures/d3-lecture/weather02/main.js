@@ -1,8 +1,9 @@
+// author: Sam Lau
 // See original API call:
 // https://open-meteo.com/en/docs#latitude=32.87765&longitude=-117.237396&current=&minutely_15=&hourly=temperature_2m&daily=&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=America%2FLos_Angeles&models=
 
-// Note from Sam: I ran this code to get the data for the weather at Center
-// Hall, then saved the JSON as a file called weather-data.json.
+// Run this code to get the data for the weather at Center
+// Hall, then save the JSON as a file called weather-data.json.
 
 // const params = {
 //   latitude: 32.87765,
@@ -52,6 +53,7 @@ const xScale = d3
   .scaleLinear()
   .domain([0, weatherData.hourly.temperature_2m.length - 1])
   .range([margin.left, width - margin.right]);
+  //.range([width - margin.right, margin.left]);
 
 const yScale = d3
   .scaleLinear()
@@ -68,3 +70,16 @@ svg
   .attr('cx', (d, i) => xScale(i))
   .attr('cy', (d) => yScale(d))
   .attr('r', 2);
+  //.attr('fill', 'blue');
+
+
+svg
+  .selectAll('text')
+  .data(weatherData.hourly.temperature_2m)  
+  .join('text')
+  .text((d) => d)
+  .attr('x', (d, i) => xScale(i)+2)
+  .attr('y', (d) => yScale(d)-2)
+  .attr('fill', 'steelblue')
+  .attr('font-size', '8px');
+  

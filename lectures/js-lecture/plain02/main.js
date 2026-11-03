@@ -6,3 +6,5 @@ celsiusTag.addEventListener('input', (event) => {
   const fah = (celsius * 9) / 5 + 32;
   result.innerText = `${celsius} degrees Celsius is ${fah} degrees Fahrenheit.`;
 });
+
+
