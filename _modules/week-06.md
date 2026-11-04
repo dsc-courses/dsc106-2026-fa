@@ -6,16 +6,18 @@ days:
     events:
       - name: LEC 12a
         type: lecture
-        title: Project 1 Awards
+        title: Interaction
+        url: https://drive.google.com/file/d/1K2R31QEzNz2PJe2mFqwHdr8Wdai57EjN/view?usp=sharing
       - name: LEC 12b
         type: lecture
         title: How will Project 3 be graded?
-      - name: LEC 12c
-        type: lecture
-        title: Maps
+        url: https://drive.google.com/file/d/13xEQLRPVz15piIbKcedL23G31XQH6nqS/view?usp=sharing
   - date: "2026-11-05"
     events:
-      - name: LEC 13
+      - name: LEC 13a
+        type: lecture
+        title: Project 1 Awards
+      - name: LEC 13b
         type: lecture
         title: Narrative
       - name: PROJ 3
