@@ -19,7 +19,8 @@ days:
         title: Project 1 Awards
       - name: LEC 13b
         type: lecture
-        title: Narrative
+        title: Interaction
+        url: https://drive.google.com/file/d/1wPqwXh3kgUrvEz-w1MZOPVtyg67s27gt/view?usp=sharing
       - name: PROJ 3
         type: proj
         title: Project 3 Checkpoint

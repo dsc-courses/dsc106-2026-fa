@@ -143,7 +143,7 @@ Please ensure that the video has an associated audio/voiceover rather than just 
 
 ### Final Submission
 
-You must have a working prototype online by **Wed 11/11, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
+You must have a working prototype online by **Fri 11/13, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
 
 In addition, **you must submit the URL on Gradescope**. **One submission per team is sufficient**.
 

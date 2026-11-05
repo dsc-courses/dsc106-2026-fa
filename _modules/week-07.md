@@ -10,12 +10,6 @@ days:
       - name: LEC 14b
         type: lecture
         title: Animation
-  - date: "2026-11-11"
-    events:
-      - name: PROJ 3
-        type: proj
-        title: "Project 3: Interactive Visualization"
-        url: ../projects/project3
   - date: "2026-11-12"
     events:
       - name: LEC 15
@@ -30,4 +24,8 @@ days:
         type: lab
         title: Lab 7
         url: ../labs/lab07
+      - name: PROJ 3
+        type: proj
+        title: "Project 3: Interactive Visualization"
+        url: ../projects/project3
 ---
