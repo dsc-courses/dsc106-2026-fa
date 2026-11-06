@@ -5,7 +5,7 @@ parent: "📝 Projects"
 released: true
 nav_order: 7
 ---
-
+ 
 <!-- prettier-ignore-start -->
 
 # Final Project
