@@ -79,7 +79,7 @@ as long as you fulfill the requirements.
 
 The final project consists of the following milestones:
 
-- **Team Formation Form (Fri 11/06, 5:00 pm, No Slip Days)**. Submit the Team Formation Gradescope assignment to register your team for the final project. **Every team must submit this form — even if you are continuing with the same team from Project 3.**
+- **Team Formation Form (Mon 11/09, 5:00 pm, No Slip Days)**. Submit the Team Formation Gradescope assignment to register your team for the final project. **Every team must submit this form — even if you are continuing with the same team from Project 3.**
   Anyone who is not part of a team or has not submitted the form by Friday, November 6 at 5:00 PM will be randomly assigned to a team. This is a strict deadline and no adjustments will be made after teams are assigned.
 
 - **Proposal (Thu 11/12, 11:59pm, can use slip days)**. Propose your chosen topic, dataset(s), and team members. We need the following information in the project proposal:
