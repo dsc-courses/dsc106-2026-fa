@@ -4,15 +4,16 @@ weekNumber: 7
 days:
   - date: "2026-11-10"
     events:
-      - name: LEC 14a
+      - name: LEC 14
         type: lecture
-        title: Project 2 Awards
-      - name: LEC 14b
-        type: lecture
-        title: Animation
+        title: Narrative
+        url: https://drive.google.com/file/d/1ZuP5oyBN0hom5ygRqHoJ41gVAPPHGuFF/view?usp=sharing
   - date: "2026-11-12"
     events:
-      - name: LEC 15
+      - name: LEC 15a
+        type: lecture
+        title: Project 2 Awards
+      - name: LEC 15b
         type: lecture
         title: Uncertainty & Review
       - name: FINAL PROJ
