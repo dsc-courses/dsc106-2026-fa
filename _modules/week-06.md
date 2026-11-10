@@ -17,6 +17,7 @@ days:
       - name: LEC 13a
         type: lecture
         title: Project 1 Awards
+        url: https://drive.google.com/file/d/175Sg-Jl0_g4BCGvHL6DKDQJeZrO2DQj-/view?usp=sharing
       - name: LEC 13b
         type: lecture
         title: Interaction
