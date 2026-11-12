@@ -10,12 +10,9 @@ days:
         url: https://drive.google.com/file/d/1ZuP5oyBN0hom5ygRqHoJ41gVAPPHGuFF/view?usp=sharing
   - date: "2026-11-12"
     events:
-      - name: LEC 15a
+      - name: LEC 15
         type: lecture
-        title: Project 2 Awards
-      - name: LEC 15b
-        type: lecture
-        title: Uncertainty & Review
+        title: Maps
       - name: FINAL PROJ
         type: proj
         title: Final Project Proposal

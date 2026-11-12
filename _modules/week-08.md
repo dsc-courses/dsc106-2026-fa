@@ -4,7 +4,10 @@ weekNumber: 8
 days:
   - date: "2026-11-17"
     events:
-      - name: LEC 16
+      - name: LEC 16a
+        type: lecture
+        title: Project 2 Awards
+      - name: LEC 16b
         type: lecture
         title: How will the Demo Video and Final Project be Graded?
   - date: "2026-11-18"
