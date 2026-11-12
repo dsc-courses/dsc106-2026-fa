@@ -13,6 +13,7 @@ days:
       - name: LEC 15
         type: lecture
         title: Maps
+        url: https://drive.google.com/file/d/1Yu5lanI3fw-koJuWMkK2o6mLZgqrxRvj/view?usp=sharing
       - name: FINAL PROJ
         type: proj
         title: Final Project Proposal
