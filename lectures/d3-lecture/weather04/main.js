@@ -106,8 +106,7 @@ svg
   .attr('cy', (d) => yScale(d))
   .attr('r', 2)
   .on('mouseover', function (event, d) {
-    d3.select(this).attr('r', 4)
-                  .attr('fill','red'); // Increase circle size on hover
+    d3.select(this).attr('r', 4); // Increase circle size on hover
 
 
     tooltip
@@ -121,8 +120,8 @@ svg
       .style('left', event.pageX + 10 + 'px');
   })
   .on('mouseout', function () {
-    d3.select(this).attr('r', 2)
-            .attr('fill', 'black'); // Restore original circle size
+    d3.select(this).attr('r', 2);
+            // Restore original circle size and color
 
     tooltip.style('visibility', 'hidden');
   });
