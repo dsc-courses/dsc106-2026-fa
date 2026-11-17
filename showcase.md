@@ -3,7 +3,7 @@ layout: assignment
 title: 📺 Final Project Showcase
 description: Showcase of student final projects.
 nav_order: 1
-released: false
+released: true
 ---
 
 # Final Project Showcase
