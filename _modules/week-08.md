@@ -6,8 +6,14 @@ days:
     events:
       - name: LEC 16a
         type: lecture
-        title: Project 2 Awards
+        title: Animation
       - name: LEC 16b
+        type: lecture
+        title: Project 2 Awards
+      - name: LEC 16c
+        type: lecture
+        title: Project 3 Advice
+      - name: LEC 16d
         type: lecture
         title: How will the Demo Video and Final Project be Graded?
   - date: "2026-11-18"
