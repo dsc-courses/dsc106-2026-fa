@@ -7,12 +7,14 @@ days:
       - name: LEC 16a
         type: lecture
         title: Animation
+        url: https://drive.google.com/file/d/1qNAogN93jIRVv3MKUji_EORlCxDoPlIF/view?usp=drive_link
       - name: LEC 16b
         type: lecture
         title: Project 2 Awards
       - name: LEC 16c
         type: lecture
         title: Project 3 Advice
+        url: https://drive.google.com/file/d/1r2OOLeYVYC6I0k7x__hOJ_YhgfriMedb/view?usp=drive_link
       - name: LEC 16d
         type: lecture
         title: How will the Demo Video and Final Project be Graded?
