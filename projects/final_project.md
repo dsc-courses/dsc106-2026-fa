@@ -98,7 +98,7 @@ Apart from the team registration form, please also submit the Gradescope assignm
 
 - **Deliverables (Wed 12/09, 11:59pm, No slip days allowed)**. Publish your final project web page and updated demo video. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
 
-- **Final Project Showcase (Thu 12/10, time & location TBD)**. We will host a showcase for DSC 106 on Thursday 12/10; the time and location will be announced. All students are required to attend the showcase.
+- **Final Project Showcase (HDSI MPR, during your section's final exam slot)**. Section 001: Mon 12/07, 3:00–6:00pm. Section 002: Wed 12/09, 11:30am–2:30pm. All students are required to attend the showcase for their section.
 
 ## Project Deliverables
 
@@ -176,7 +176,7 @@ The assignment is out of 20 points possible. Submissions that squarely meet the 
 | **Video: Takeaways**                        |                                                                                                                                                                               | The video ends with an interesting takeaway and explains why your visualization demonstrates this takeaway effectively. What is the one thing that everyone should learn from your visualization? And why does your visualization succeed at explaining it? (+2 points) | The video ends with a takeaway message but the presentation could be improved (e.g. the takeaway isn’t surprising, or focuses too much on the implementation of the visualization), or does not end with a takeaway message at all. (+1 point)                                          |
 | **Creativity and Originality**              | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (up to +1 bonus point)                                    | The submission meets the assignment requirements. (+0 points)                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                         |
 
-### Project Showcase (12/10/2026)
+### Project Showcase (Section 001: 12/07/2026, Section 002: 12/09/2026)
 
 Attendance at the project showcase is worth 5% of your overall grade. You will
 receive the points if you attend the showcase for the entire duration and
