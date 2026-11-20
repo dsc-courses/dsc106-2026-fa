@@ -24,7 +24,8 @@ days:
     events:
       - name: LEC 17
         type: lecture
-        title: Final Project Feedback
+        title: Uncertainty
+        url: https://drive.google.com/file/d/11Q7fIO-I25DI2ceBhPn5nfnyrxcba69c/view?usp=sharing
       - name: PROJ 3
         type: proj
         title: Project 3 Peer Review
